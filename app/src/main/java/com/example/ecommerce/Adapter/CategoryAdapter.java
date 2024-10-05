@@ -36,6 +36,7 @@ public class CategoryAdapter extends RecyclerView.Adapter<CategoryAdapter.Catego
         return categories.size();
     }
 
+
     public static final class CategoryViewHolder extends RecyclerView.ViewHolder{
 
         public CategoryViewHolder(@NonNull View itemView) {
