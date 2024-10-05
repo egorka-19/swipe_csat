@@ -16,5 +16,7 @@ public class MainActivity extends AppCompatActivity {
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_main);
         System.out.println("ХУЙ");
+
+        System.out.println("НЕ МАТЕРИСЬ");
     }
 }
